@@ -1,7 +1,7 @@
 ### Hello!
 
 My name is Tyler, with a nickname of Xavier online. I'm fine with being called by either-or. 
-I'm a current OSU student in CSE for 2027.
+I'm a current OSU student in CSE.
 
 I'm mainly learning programming, still figuring out how github works to help with it as well. My main experience in code is in Python and Java, and I'm interested/trying to learn C++ and C#, mainly C#. 
 
